@@ -13,4 +13,6 @@
 
 
 ## Analysis on the Popularity of Stations
-##### 
+##### popularity of a few stations remainded consistent for both the start and end stations, with few changes, which means it doesn't change too much
+##### the most popular End and Start station in Feburary 2018 are Pershing Square North and 8 Ave & W 31 Street with total amount 9060 and 5268 
+##### the most popular days do not seem to have any distinct pattern
